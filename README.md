@@ -1,4 +1,6 @@
-UAS PBO nama:Kadek Bagastya Adi Widyadhana (2301010075)
+UAS PBO nama kelompok :-Kadek Bagastya Adi Widyadhana (2301010075)
+                       -I Gede Suryaatmaja 2301010068
+
 Untuk Melakukan TEST pastikan memiliki file jar pada struktur project
 jar dapat di akses pada google drive ini:
 https://drive.google.com/drive/folders/13bt5Kh8SbVHrnwMtS-onX3fOWbz3_-mx?usp=sharing
