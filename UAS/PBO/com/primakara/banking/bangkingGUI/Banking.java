@@ -1,3 +1,6 @@
+//Nama :kadek bagastya adi widyadhana-2301010075
+// bisa melakukan GUI dalam 1 file
+
 //package com.primakara.banking.bangkingGUI;
 //
 //import com.primakara.banking.Nasabah;
